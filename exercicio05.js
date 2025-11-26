@@ -16,3 +16,13 @@ if (primeiroNumero < segundoNumero && segundoNumero < terceiroNumero) {
     //Só entra nesse bloco se for verdadeiro
     alert("Está em ordem crescente.")
 }
+//Verificar o decrescente 
+if (primeiroNumero > segundoNumero && segundoNumero > terceiroNumero){
+    alert("Está em ordem decrescente")
+}
+
+//Verificar o aleatoria
+else{
+    alert("Os números estão em ordem aleatória.")
+}
+    
