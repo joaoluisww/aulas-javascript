@@ -23,6 +23,8 @@ console.log(afazeres);
 
 for(let i = 0; i < afazeres.length; i++)
     console.log(afazeres[i]);
+
+
     
 
 
